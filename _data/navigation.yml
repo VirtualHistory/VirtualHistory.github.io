@@ -1,0 +1,25 @@
+- title: Start
+  url: "/"
+  side: left
+
+- title: Projekt
+  url: "/projekt/"
+  side: left
+  dropdown:
+  - title: "Forschung"
+    url: "/projekt/forschung/"
+  - title: "Team"
+    url: "/projekt/team/"
+  - title: "Kooperationspartner"
+    url: "/projekt/kooperationspartner/"
+  - title: "Förderung"
+    url: "/projekt/foerderung/"
+
+- title: Impressionen
+  url: "/impressionen/"
+  side: left
+
+- title: Kontakt
+  url: "/kontakt/"
+  side: left
+
