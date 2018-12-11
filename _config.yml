@@ -11,7 +11,14 @@ markdown: kramdown
 # For feeling-responsive
 title: "Virtual History Title"
 slogan: "Virtual History Slogan"
-description: "About this site: Das Projekt Virtual History will am Beispiel des antiken Forum Romanum in Rom zeigen, wie eine digitale Aufbereitung aktueller Forschungsergebnisse im Medium VR völlig neue sinnlich-intellektuelle Erfahrungen ermöglicht."
+description: "Impressum
+Virtual History
+Filmuniversität Babelsberg KONRAD WOLF
+Marlene-Dietrich-Allee 11
+(Studios Ahornstrasse 18)
+14482 Babelsberg
+fon: 0331 - 6202 - 164
+b.hetenyi(at)filmuniversitaet.de"
 logo: "logo.png"
 favicon-32x32: "favicon-32x32.png"
 
