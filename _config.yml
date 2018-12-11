@@ -11,14 +11,7 @@ markdown: kramdown
 # For feeling-responsive
 title: "Virtual History Title"
 slogan: "Virtual History Slogan"
-description: "Impressum
-Virtual History
-Filmuniversität Babelsberg KONRAD WOLF
-Marlene-Dietrich-Allee 11
-(Studios Ahornstrasse 18)
-14482 Babelsberg
-fon: 0331 - 6202 - 164
-b.hetenyi(at)filmuniversitaet.de"
+description: "Impressum:\nVirtual History\nFilmuniversität Babelsberg KONRAD WOLF\nMarlene-Dietrich-Allee 11\n(Studios Ahornstrasse 18)\n14482 Babelsberg\nfon: 0331 - 6202 - 164\nb.hetenyi(at)filmuniversitaet.de"
 logo: "logo.png"
 favicon-32x32: "favicon-32x32.png"
 
