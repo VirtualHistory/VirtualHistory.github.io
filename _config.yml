@@ -16,7 +16,7 @@ markdown: kramdown
 # For feeling-responsive
 title: "Virtual History"
 slogan: "Forum Romanum in XR"
-description: "<a href = \"http://zeit.de\">Impressum</a>"
+description: "<a href = \"http://virtualhistory.github.io/impressum\">Impressum_Datenschutz</a>"
 logo: "logo.png"
 favicon-32x32: "favicon-32x32.png"
 

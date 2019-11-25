@@ -14,6 +14,5 @@ gallery:
   - image_url: galerie/Panorama_Sueden_02.jpg
   - image_url: galerie/Rostra_Cicero.jpg
 ---
-Impressionen aus unserem Projekt.
 
 {% include gallery %}
