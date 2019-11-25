@@ -1,17 +1,19 @@
 ---
 layout: page
 header:
-        image_fullwidth: "forum.png"
+        image_fullwidth: "impressionen_fullwidth.jpg"
 subheadline: "Impressionen"
-#teaser: "Alle Kooperationspartner dieses Projekts"
+#teaser: "TEASER"
 permalink: "/impressionen/"
 gallery:
-  - image_url: Assetplan_v02_web.jpg
+  - image_url: galerie/Atriumshaeuser.jpg
+  - image_url: galerie/Detail_Norden_00.jpg
+  - image_url: galerie/Detail_Norden_01.jpg
+  - image_url: galerie/Panorama_Sueden_00.jpg
+  - image_url: galerie/Panorama_Sueden_01.jpg
+  - image_url: galerie/Panorama_Sueden_02.jpg
+  - image_url: galerie/Rostra_Cicero.jpg
 ---
-Impressionen von unserem Projekt.
-Die Galerie:
+Impressionen aus unserem Projekt.
 
 {% include gallery %}
-
-Nach der Galerie.
-
