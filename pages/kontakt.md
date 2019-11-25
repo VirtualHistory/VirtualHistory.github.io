@@ -1,14 +1,11 @@
----
+﻿---
 layout: page
 header:
-        image_fullwidth: "forum.png"
+        image_fullwidth: "kontakt_fullwidth.jpg"
 subheadline: "Unsere Kontaktmöglichkeiten"
 #teaser: "Unsere Kontaktmöglichkeiten"
 permalink: "/kontakt/"
 ---
-Kontakt:
-
-Beate Hetényi  
 Projektleitung "Virtual History"  
 Filmuniversität Babelsberg KONRAD WOLF  
 Marlene-Dietrich-Allee 11  
