@@ -18,7 +18,7 @@ Jan Reimann (Archäologe)
 
 Marco Arnold (Programmierer)
 
-[Andreas Wendleder (Programmierer)](https://filmuniversitaet.de/portrait/person/andreas-wendleder/)
+[Andreas Wendleder](https://filmuniversitaet.de/portrait/person/andreas-wendleder/)
 
 [Karoline Schneider (Szenographie)](https://filmuniversitaet.de/portrait/person/karoline-schneider/)
 
