@@ -10,11 +10,19 @@ permalink: "/team/"
 
 David Schornsheim (Sound Supervisor)
 
+Jamie Teasdale (Sound Designer)
+
+Irma Heinig (Sound Designer)
+
 Philipp Möde (VFX Supervisor)
 
 Jan Reimann (Archäologe)
 
 [Sylvius Lack (Wissenstransfer)](https://filmuniversitaet.de/portrait/person/sylvius-lack/)
+
+Eline Ledent (Programmiererin)
+
+Tycho terryn (Programmierer)
 
 Marco Arnold (Programmierer)
 
