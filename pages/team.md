@@ -18,8 +18,6 @@ Jan Reimann (Archäologe)
 
 Marco Arnold (Programmierer)
 
-[Andreas Wendleder](https://filmuniversitaet.de/portrait/person/andreas-wendleder/)
-
 [Karoline Schneider (Szenographie)](https://filmuniversitaet.de/portrait/person/karoline-schneider/)
 
 [Stefan Schulz (3D Modeller)](https://www.s2art.de/)
